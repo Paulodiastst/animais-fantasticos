@@ -2,11 +2,6 @@
     <h1> Site Animais Fantásticos </h1>
 </div>
 
-<h2 align = "center">
-  Esse repositório foi criando para conter os códigos-fontes do projeto cadastro de eventos Spring com Spring Boot.
-</h2>
-
-
 <h2> 🚀 Resultado </h2>
 
  <p align="center">
