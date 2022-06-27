@@ -9,7 +9,7 @@
 
 <div id="objetivo">
 <h2> 💡 Objetivo </h2>
-Projeto com foco na em praticar a manipulação do DOM e requisições vis fetch API.
+Projeto com foco na em praticar a manipulação do DOM e requisições via fetch API.
 <!-- Build an application that creates bank statements of Santander bank, using a robust and testable architecture, from app to servidor side.  -->
 <!-- <br>Para o lado do servidor, construiu-se uma API RESTful com estrutura em Spring Boot. -->
 <!-- For the servidor side, building an API RESTful with Spring Boot structure. -->
